@@ -163,5 +163,5 @@ Contact information
 General Queries: admin@sophisticatedprimate.com
 Report errors, bugs, and problems at:
     email:  bug@sophisticatedprimate.com
-    github: https://github.com/sophisticatedprimate/long_addition_1/issues
+    github: https://github.com/sophisticatedprimate/long_addition_3/issues
 """
