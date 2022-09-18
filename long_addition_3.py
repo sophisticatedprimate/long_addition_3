@@ -7,8 +7,8 @@ https://github.com/sophisticatedprimate/long_addition_1/blob/main/long_addition_
 
 To run the program: 
     1. Open a terminal on a computer with python 3 installed (works with v2 as well)
-    2. Navigate to a directory containing this file (long_addition_1.py)
-    3. Run the program with the following command: python3 long_addition_1.py
+    2. Navigate to a directory containing this file (long_addition_3.py)
+    3. Run the program with the following command: python3 long_addition_3.py
     4. A print out of the sums should appear after the cursor
 
 If error:
